@@ -1,5 +1,4 @@
-martha = Dog.new 
+martha = Dog.new
 martha.name = "martha"
 
-martha.name 
- 
+martha.name
